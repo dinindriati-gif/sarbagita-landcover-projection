@@ -1,0 +1,8 @@
+Kelas Tutupan Lahan,Producer's Accuracy (%),User's Accuracy (%)
+1. Hutan / Vegetasi Lebat,92.29,84.48
+2. Pertanian / Sawah,19.18,40.29
+3. Lahan Terbangun / Permukiman,78.44,77.51
+4. Badan Air / Perairan,93.75,100
+,,
+Overall Accuracy : 80.04% ,,
+Cohen's Kappa Index : 0.6234,,
